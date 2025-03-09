@@ -1,9 +1,9 @@
 # Optimizing Cluster Management
 
-This repository outlines the approach taken to optimize cluster management, predict pod failures and further decrease downtime,
+This repository outlines the approach taken to optimize cluster management, predict pod failures and further decrease downtime.
 
 ## Phase 1: Prediction
-Phase 1 of this project involves the use of an AI model to predict:
+Phase 1 of this project involves the use of an AI model to predict the following:
 - Pod failures
 - Resource exhaustion
 - Network & connectivity issues
